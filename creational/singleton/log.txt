@@ -1,0 +1,4 @@
+2024-10-03: Started!
+2024-10-03: Logger has a single instance.
+2024-10-03: Config singleton also works fine.
+2024-10-03: Finished!
